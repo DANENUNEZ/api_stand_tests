@@ -1,1 +1,1 @@
-Ejemplo sprint 7
+print ("Ejemplo sprint 7")
