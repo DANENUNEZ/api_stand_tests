@@ -1,1 +1,1 @@
-print ("Ejemplo sprint 7")
+"Ejemplo sprint 7"
